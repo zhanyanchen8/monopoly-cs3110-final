@@ -1,0 +1,724 @@
+{
+  "spaces": [
+    {
+      "spacename": "GO",
+      "position": 0,
+      "group": "go",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Chance 1",
+      "position": 1,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Community Chest 1",
+      "position": 2,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Chance 2",
+      "position": 3,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Income Tax",
+      "position": 4,
+      "group": "tax",
+      "price": -1,
+      "rents": [
+        200
+      ]
+    },
+    {
+      "spacename": "Reading Railroad",
+      "position": 5,
+      "group": "rail",
+      "price": 200,
+      "rents": [
+        25,
+        50,
+        100,
+        200
+      ]
+    },
+    {
+      "spacename": "Community Chest 2",
+      "position": 6,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Chance 3",
+      "position": 7,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Community Chest 3",
+      "position": 8,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Chance 4",
+      "position": 9,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Jail",
+      "position": 10,
+      "group": "free",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "St. Charles Place",
+      "position": 11,
+      "group": "pink",
+      "price": 140,
+      "rents": [
+        10,
+        50,
+        150,
+        450,
+        625,
+        750
+      ]
+    },
+    {
+      "spacename": "Electric Company",
+      "position": 12,
+      "group": "utility",
+      "price": 150,
+      "rents": [
+        4,
+        10
+      ]
+    },
+    {
+      "spacename": "States Avenue",
+      "position": 13,
+      "group": "pink",
+      "price": 140,
+      "rents": [
+        10,
+        50,
+        150,
+        450,
+        625,
+        750
+      ]
+    },
+    {
+      "spacename": "Virginia Avenue",
+      "position": 14,
+      "group": "pink",
+      "price": 160,
+      "rents": [
+        12,
+        60,
+        180,
+        500,
+        700,
+        900
+      ]
+    },
+    {
+      "spacename": "Pennsylvania Railroad",
+      "position": 15,
+      "group": "rail",
+      "price": 200,
+      "rents": [
+        25,
+        50,
+        100,
+        200
+      ]
+    },
+    {
+      "spacename": "Chance 5",
+      "position": 16,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Community Chest 5",
+      "position": 17,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Chance 6",
+      "position": 18,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Community Chest 6",
+      "position": 19,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Free Parking",
+      "position": 20,
+      "group": "free",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Kentucky Avenue",
+      "position": 21,
+      "group": "red",
+      "price": 220,
+      "rents": [
+        18,
+        90,
+        250,
+        700,
+        875,
+        1050
+      ]
+    },
+    {
+      "spacename": "Chance 2",
+      "position": 22,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Indiana Avenue",
+      "position": 23,
+      "group": "red",
+      "price": 220,
+      "rents": [
+        18,
+        90,
+        250,
+        700,
+        875,
+        1050
+      ]
+    },
+    {
+      "spacename": "Illinois Avenue",
+      "position": 24,
+      "group": "red",
+      "price": 240,
+      "rents": [
+        20,
+        100,
+        300,
+        750,
+        925,
+        1100
+      ]
+    },
+    {
+      "spacename": "B&O Railroad",
+      "position": 25,
+      "group": "rail",
+      "price": 200,
+      "rents": [
+        25,
+        50,
+        100,
+        200
+      ]
+    },
+    {
+      "spacename": "Chance 8",
+      "position": 26,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Chance 9",
+      "position": 27,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Water Works",
+      "position": 28,
+      "group": "utility",
+      "price": 150,
+      "rents": [
+        4,
+        10
+      ]
+    },
+    {
+      "spacename": "Community Chest 8",
+      "position": 29,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Go to Jail",
+      "position": 30,
+      "group": "free",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Pacific Avenue",
+      "position": 31,
+      "group": "green",
+      "price": 300,
+      "rents": [
+        26,
+        130,
+        390,
+        900,
+        1100,
+        1275
+      ]
+    },
+    {
+      "spacename": "North Carolina Avenue",
+      "position": 32,
+      "group": "green",
+      "price": 300,
+      "rents": [
+        26,
+        130,
+        390,
+        900,
+        1100,
+        1275
+      ]
+    },
+    {
+      "spacename": "Community Chest 9",
+      "position": 33,
+      "group": "chest",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Pennsylvania Avenue",
+      "position": 34,
+      "group": "green",
+      "price": 320,
+      "rents": [
+        28,
+        150,
+        450,
+        1000,
+        1200,
+        1400
+      ]
+    },
+    {
+      "spacename": "Shortline Railroad",
+      "position": 35,
+      "group": "rail",
+      "price": 200,
+      "rents": [
+        25,
+        50,
+        100,
+        200
+      ]
+    },
+    {
+      "spacename": "Chance 10",
+      "position": 36,
+      "group": "chance",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Park Place",
+      "position": 37,
+      "group": "blue",
+      "price": 350,
+      "rents": [
+        35,
+        175,
+        500,
+        1100,
+        1300,
+        1500
+      ]
+    },
+    {
+      "spacename": "Luxury Tax",
+      "position": 38,
+      "group": "tax",
+      "price": -1,
+      "rents": [
+        100
+      ]
+    },
+    {
+      "spacename": "Boardwalk",
+      "position": 39,
+      "group": "blue",
+      "price": 400,
+      "rents": [
+        50,
+        200,
+        600,
+        1400,
+        1700,
+        2000
+      ]
+    }
+  ],
+  "jail_pos": 10,
+  "go_to_jail_pos": 30,
+  "groups": [
+    {
+      "groupname": "go",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "free",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "free",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "utility",
+      "build": -1,
+      "buildable": false,
+      "rent_type": "percentage"
+    },
+    {
+      "groupname": "rail",
+      "build": -1,
+      "buildable": false,
+      "rent_type": "variable"
+    },
+    {
+      "groupname": "chance",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "chest",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "tax",
+      "build": -1,
+      "buildable": false,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "purple",
+      "build": 50,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "sky",
+      "build": 50,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "pink",
+      "build": 100,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "orange",
+      "build": 100,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "red",
+      "build": 150,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "yellow",
+      "build": 150,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "green",
+      "build": 200,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "blue",
+      "build": 200,
+      "buildable": true,
+      "rent_type": "direct"
+    }
+  ],
+  "cards": [
+    {
+      "name": "Chance 7",
+      "description": "Go back 3 spaces",
+      "deck": "Chance",
+      "type": "movedist",
+      "amount": "3"
+    },
+    {
+      "name": "Chance 4",
+      "description": "Advance to St. Charles Place – if you pass Go, collect $200",
+      "deck": "Chance",
+      "type": "moveto",
+      "amount": "11"
+    },
+    {
+      "name": "Chance 2",
+      "description": "Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times the amount thrown.",
+      "deck": "Chance",
+      "type": "moveto",
+      "amount": "utility"
+    },
+    {
+      "name": "Chance 3",
+      "description": "Advance token to the nearest Railroad and pay owner twice the rental to which he/she is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.",
+      "deck": "Community Chest",
+      "type": "moveto",
+      "amount": "rail"
+    },
+    {
+      "name": "Chance 6",
+      "description": "Get out of Jail free – this card may be kept until needed",
+      "deck": "Chance",
+      "type": "get out",
+      "amount": "0"
+    },
+    {
+      "name": "Community Chest 4",
+      "description": "Get out of jail free – this card may be kept until needed",
+      "deck": "Community Chest",
+      "type": "get out",
+      "amount": "0"
+    },
+    {
+      "name": "Community Chest 5",
+      "description": "Go to jail – go directly to jail – Do not pass Go, do not collect $200",
+      "deck": "Community Chest",
+      "type": "movetojail",
+      "amount": "0"
+    },
+    {
+      "name": "Chance 8",
+      "description": "Go directly to Jail – do not pass Go, do not collect $200",
+      "deck": "Chance",
+      "type": "movetojail",
+      "amount": "0"
+    },
+    {
+      "name": "Chance 10",
+      "description": "Pay poor tax of $15",
+      "deck": "Chance",
+      "type": "spend",
+      "amount": "15"
+    },
+    {
+      "name": "Chance 13",
+      "description": "You have been elected chairman of the board – pay each player $50",
+      "deck": "Chance",
+      "type": "spend-each-player",
+      "amount": "50"
+    },
+    {
+      "name": "Community Chest 3",
+      "description": "Doctor's fees – Pay $50",
+      "deck": "Community Chest",
+      "type": "spend",
+      "amount": "50"
+    },
+    {
+      "name": "Community Chest 6",
+      "description": "It is your birthday! Collect $10 from each player",
+      "deck": "Community Chest",
+      "type": "earn-each-player",
+      "amount": "10"
+    },
+    {
+      "name": "Community Chest 17",
+      "description": "Grand Opera Night – collect $50 from every player for opening night seats",
+      "deck": "Community Chest",
+      "type": "earn-each-player",
+      "amount": "50"
+    },
+    {
+      "name": "Chance 5",
+      "description": "Bank pays you dividend of $50",
+      "deck": "Chance",
+      "type": "earn",
+      "amount": "50"
+    },
+    {
+      "name": "Chance 14",
+      "description": "Your building loan matures – collect $150",
+      "deck": "Chance",
+      "type": "earn",
+      "amount": "150"
+    },
+    {
+      "name": "Chance 15",
+      "description": "You have won a crossword competition - collect $100",
+      "deck": "Chance",
+      "type": "earn",
+      "amount": "100"
+    },
+    {
+      "name": "Community Chest 2",
+      "description": "Bank error in your favor – collect $75",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "75"
+    },
+    {
+      "name": "Community Chest 7",
+      "description": "Income Tax refund – collect $20",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "20"
+    },
+    {
+      "name": "Community Chest 8",
+      "description": "Life Insurance Matures – collect $100",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "100"
+    },
+    {
+      "name": "Community Chest 10",
+      "description": "Receive $25 Consultancy Fee",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "25"
+    },
+    {
+      "name": "Community Chest 13",
+      "description": "You have won second prize in a beauty contest – collect $10",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "10"
+    },
+    {
+      "name": "Community Chest 14",
+      "description": "You inherit $100",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "100"
+    },
+    {
+      "name": "Community Chest 15",
+      "description": "From sale of stock you get $50",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "50"
+    },
+    {
+      "name": "Community Chest 16",
+      "description": "Holiday Fund matures - Receive $100",
+      "deck": "Community Chest",
+      "type": "earn",
+      "amount": "100"
+    },
+    {
+      "name": "Community Chest 12",
+      "description": "You are assessed for street repairs – $40 per house, $115 per hotel",
+      "deck": "Community Chest",
+      "type": "repairs",
+      "amount": "[40, 115]"
+    },
+    {
+      "name": "Chance 9",
+      "description": "Make general repairs on all your property – for each house pay $25 – for each hotel $100",
+      "deck": "Chance",
+      "type": "repairs",
+      "amount": "[25, 100]"
+    },
+    {
+      "name": "Community Chest 9",
+      "description": "Pay Hospital Fees of $100",
+      "deck": "Community Chest",
+      "type": "spend",
+      "amount": "100"
+    },
+    {
+      "name": "Community Chest 11",
+      "description": "Pay School Fees of $50",
+      "deck": "Community Chest",
+      "type": "spend",
+      "amount": "50"
+    },
+    {
+      "name": "Community Chest 1",
+      "description": "Advance to Go (Collect $200)",
+      "deck": "Community Chest",
+      "type": "moveto",
+      "amount": "40"
+    },
+    {
+      "name": "Chance 0",
+      "description": "Advance to Go",
+      "deck": "Chance",
+      "type": "moveto",
+      "amount": "40"
+    },
+    {
+      "name": "Chance 11",
+      "description": "Take a trip to Reading Railroad – if you pass Go collect $200",
+      "deck": "Chance",
+      "type": "moveto",
+      "amount": "5"
+    },
+    {
+      "name": "Chance 12",
+      "description": "Take a walk on the Boardwalk – advance token to Boardwalk",
+      "deck": "Chance",
+      "type": "moveto",
+      "amount": "39"
+    },
+    {
+      "name": "Chance 1",
+      "description": "Advance to Illinois Ave",
+      "deck": "Chance",
+      "type": "moveto",
+      "amount": "24"
+    }
+  ]
+}

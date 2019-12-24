@@ -1,0 +1,95 @@
+{
+    "spaces": [
+      {
+        "spacename": "GO",
+        "position": 0,
+        "group": "go",
+        "price": -1,
+        "rents": []
+      },
+      {
+        "spacename": "1st Street",
+        "position": 1,
+        "group": "utility",
+        "price": 20,
+        "rents": [
+          4, 10
+        ]
+      },
+      {
+        "spacename": "Jail",
+        "position": 2,
+        "group": "free",
+        "price": -1,
+        "rents": []
+      },
+      {
+        "spacename": "1st Avenue",
+        "position": 3,
+        "group": "utility",
+        "price": 40,
+        "rents": [
+          4, 10
+        ]
+      },
+      {
+        "spacename": "2nd Avenue",
+        "position": 4,
+        "group": "utility",
+        "price": 50,
+        "rents": [
+            4, 10
+        ]
+      },
+      {
+        "spacename": "Free 1",
+        "position": 5,
+        "group": "free",
+        "price": -1,
+        "rents": []
+      },
+      {
+        "spacename": "Go to jail",
+        "position": 6,
+        "group": "free",
+        "price": -1,
+        "rents": []
+      },
+      {
+        "spacename": "3rd Street",
+        "position": 7,
+        "group": "utility",
+        "price": 3,
+        "rents": [4, 10]
+      }
+    ],
+    "jail_pos": 2,
+    "go_to_jail_pos": 6,
+    "groups": [
+      {
+        "groupname": "go",
+        "build": -1,
+        "buildable": false,
+        "rent_type": ""
+      },
+      {
+        "groupname": "free",
+        "build": -1,
+        "buildable": false,
+        "rent_type": ""
+      },
+      {
+        "groupname": "utility",
+        "build": -1,
+        "buildable": false,
+        "rent_type": "percentage"
+      },
+      {
+        "groupname": "rail",
+        "build": -1,
+        "buildable": false,
+        "rent_type": "variable"
+      }
+    ],
+    "cards": []
+  }

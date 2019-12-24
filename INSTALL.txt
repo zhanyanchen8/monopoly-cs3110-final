@@ -1,0 +1,5 @@
+The major dependencies that needs to be installed are [Yojson], [str], [OUnit], and [ANSITerminal]. All packages are listed in the [_tags] file and were pre-installed onto the opam system that is currently in use for development.  
+
+Use [make play] to play the game and [make build] to build the game.
+Use [make test] to run our OUnit test cases.
+

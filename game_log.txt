@@ -1,0 +1,226 @@
+1  CPU  Ben
+2  CPU  Yanchen
+3  CPU  Dubem
+4  CPU  Clarkson
+
+Ben's turn*
+
+Ben rolls
+5
+3
+gotojail: 30
+location: 8
+You have landed on Vermont Avenue.
+What would you like to do?
+1. Buy
+2. Auction
+> 1
+
+Ben $1400 (not in jail) 
+  owned: Vermont Avenue
+
+Yanchen $1500 (not in jail) 
+  owned: 
+Dubem $1500 (not in jail) 
+  owned: 
+Clarkson $1500 (not in jail) 
+  owned: 
+
+Ben's turn
+
+turn ended
+
+Yanchen's turn*
+
+Yanchen rolls
+4
+1
+gotojail: 30
+location: 5
+You have landed on Reading Railroad.
+What would you like to do?
+1. Buy
+2. Auction
+> 1
+
+Ben $1400 (not in jail) 
+  owned: Vermont Avenue
+
+Yanchen $1300 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1500 (not in jail) 
+  owned: 
+Clarkson $1500 (not in jail) 
+  owned: 
+
+Yanchen's turn
+
+turn ended
+
+Dubem's turn*
+
+Dubem rolls
+1
+4
+gotojail: 30
+location: 5
+You must pay rent!
+
+
+Ben $1400 (not in jail) 
+  owned: Vermont Avenue
+
+Yanchen $1350 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1450 (not in jail) 
+  owned: 
+Clarkson $1500 (not in jail) 
+  owned: 
+
+Dubem's turn
+
+turn ended
+
+Clarkson's turn*
+
+Clarkson rolls
+1
+4
+gotojail: 30
+location: 5
+You must pay rent!
+
+
+Ben $1400 (not in jail) 
+  owned: Vermont Avenue
+
+Yanchen $1400 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1450 (not in jail) 
+  owned: 
+Clarkson $1450 (not in jail) 
+  owned: 
+
+Clarkson's turn
+
+turn ended
+
+Ben's turn*
+
+Ben rolls
+2
+2
+gotojail: 30
+location: 12
+You have landed on Electric Company.
+What would you like to do?
+1. Buy
+2. Auction
+> 1
+
+Ben $1250 (not in jail) 
+  owned: Electric Company
+Vermont Avenue
+
+Yanchen $1400 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1450 (not in jail) 
+  owned: 
+Clarkson $1450 (not in jail) 
+  owned: 
+
+Ben's turn*
+
+Ben rolls
+5
+5
+gotojail: 30
+location: 22
+
+Ben $1250 (not in jail) 
+  owned: Electric Company
+Vermont Avenue
+
+Yanchen $1400 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1450 (not in jail) 
+  owned: 
+Clarkson $1450 (not in jail) 
+  owned: 
+
+Ben's turn*
+
+Ben rolls
+4
+4
+3 doubles - go to jail!
+
+Ben $1250 (in jail) 
+  owned: Electric Company
+Vermont Avenue
+
+Yanchen $1400 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1450 (not in jail) 
+  owned: 
+Clarkson $1450 (not in jail) 
+  owned: 
+
+Ben's turn
+
+turn ended
+
+Yanchen's turn*
+
+Yanchen rolls
+2
+1
+gotojail: 30
+location: 8
+You must pay rent!
+
+
+Ben $1256 (in jail) 
+  owned: Electric Company
+Vermont Avenue
+
+Yanchen $1394 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1450 (not in jail) 
+  owned: 
+Clarkson $1450 (not in jail) 
+  owned: 
+
+Yanchen's turn
+
+turn ended
+
+Dubem's turn*
+
+Dubem rolls
+1
+6
+gotojail: 30
+location: 12
+You must pay rent!
+
+
+Ben $1260 (in jail) 
+  owned: Electric Company
+Vermont Avenue
+
+Yanchen $1394 (not in jail) 
+  owned: Reading Railroad
+
+Dubem $1446 (not in jail) 
+  owned: 
+Clarkson $1450 (not in jail) 
+  owned: 
+Thank you for playing!

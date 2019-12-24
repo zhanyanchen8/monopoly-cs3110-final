@@ -1,0 +1,134 @@
+{
+  "spaces": [
+    {
+      "spacename": "GO",
+      "position": 0,
+      "group": "go",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "1st Street",
+      "position": 1,
+      "group": "maroon",
+      "price": 20,
+      "rents": [
+        2,
+        8,
+        12,
+        16,
+        20,
+        24
+      ]
+    },
+    {
+      "spacename": "Jail",
+      "position": 2,
+      "group": "free",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "1st Avenue",
+      "position": 3,
+      "group": "sky",
+      "price": 40,
+      "rents": [
+        3,
+        12,
+        18,
+        24,
+        30,
+        36
+      ]
+    },
+    {
+      "spacename": "2nd Avenue",
+      "position": 4,
+      "group": "sky",
+      "price": 50,
+      "rents": [
+        5,
+        20,
+        30,
+        40,
+        50,
+        60
+      ]
+    },
+    {
+      "spacename": "Free 1",
+      "position": 5,
+      "group": "free",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Go to jail",
+      "position": 6,
+      "group": "free",
+      "price": -1,
+      "rents": []
+    },
+    {
+      "spacename": "Functional Railroad",
+      "position": 7,
+      "group": "rail",
+      "price": 200,
+      "rents": [50,100,150,200]
+    }
+  ],
+  "jail_pos": 2,
+  "go_to_jail_pos": 6,
+  "groups": [
+    {
+      "groupname": "go",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "free",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "utility",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "rail",
+      "build": -1,
+      "buildable": false,
+      "rent_type": "variable"
+    },
+    {
+      "groupname": "chance",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "chest",
+      "build": -1,
+      "buildable": false,
+      "rent_type": ""
+    },
+    {
+      "groupname": "maroon",
+      "build": 50,
+      "buildable": true,
+      "rent_type": "direct"
+    },
+    {
+      "groupname": "sky",
+      "build": 100,
+      "buildable": true,
+      "rent_type": "direct"
+    }
+  ],
+  "cards": []
+}

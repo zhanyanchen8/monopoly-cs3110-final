@@ -1,0 +1,61 @@
+full_board.json
+END
+1,2,3,4,5,6
+1,2,3,4,5,6
+END
+0;Ross;false;1200;12;false;;false;0
+1;Pete;false;1700;0;false;;false;0
+2;Jack;false;1450;5;false;;false;0
+END
+Electric Company;12;150;false;4,10;0;;utility,-1,false,percentage
+Reading Railroad;5;200;false;50,100,150,200;0;;rail,-1,false,direct
+Boardwalk;39;400;false;50,200,600,1400,1700,2000;-1;;blue,200,true,direct
+Luxury Tax;38;-1;false;100;-1;;tax,-1,false,direct
+Park Place;37;350;false;35,175,500,1100,1300,1500;-1;;blue,200,true,direct
+Chance 3;36;-1;false;;-1;;chance,-1,false,rnone
+Shortline Railroad;35;200;false;50,100,150,200;-1;;rail,-1,false,direct
+Pennsylvania Avenue;34;320;false;28,150,450,1000,1200,1400;-1;;green,200,true,direct
+Community Chest 3;33;-1;false;;-1;;chest,-1,false,rnone
+North Carolina Avenue;32;300;false;26,130,390,900,1100,1275;-1;;green,200,true,direct
+Pacific Avenue;31;300;false;26,130,390,900,1100,1275;-1;;green,200,true,direct
+Go to Jail;30;-1;false;;-1;;free,-1,false,rnone
+Marvin Gardens;29;280;false;24,120,360,850,1025,1200;-1;;yellow,150,true,direct
+Water Works;28;150;false;4,10;-1;;utility,-1,false,percentage
+Ventnor Avenue;27;260;false;22,110,330,800,975,1150;-1;;yellow,150,true,direct
+Atlantic Avenue;26;260;false;22,110,330,800,975,1150;-1;;yellow,150,true,direct
+B&O Railroad;25;200;false;50,100,150,200;-1;;rail,-1,false,direct
+Illinois Avenue;24;240;false;20,100,300,750,925,1100;-1;;red,150,true,direct
+Indiana Avenue;23;220;false;18,90,250,700,875,1050;-1;;red,150,true,direct
+Chance 2;22;-1;false;;-1;;chance,-1,false,rnone
+Kentucky Avenue;21;220;false;18,90,250,700,875,1050;-1;;red,150,true,direct
+Free Parking;20;-1;false;;-1;;free,-1,false,rnone
+New York Avenue;19;200;false;16,80,220,600,800,1000;-1;;orange,100,true,direct
+Tennessee Avenue;18;180;false;14,70,200,550,750,950;-1;;orange,100,true,direct
+Community Chest 2;17;-1;false;;-1;;chest,-1,false,rnone
+St. James Place;16;180;false;14,70,200,550,750,950;-1;;orange,100,true,direct
+Pennsylvania Railroad;15;200;false;50,100,150,200;-1;;rail,-1,false,direct
+Virginia Avenue;14;160;false;12,60,180,500,700,900;-1;;pink,100,true,direct
+States Avenue;13;140;false;10,50,150,450,625,750;-1;;pink,100,true,direct
+St. Charles Place;11;140;false;10,50,150,450,625,750;-1;;pink,100,true,direct
+Jail;10;-1;false;;-1;;free,-1,false,rnone
+Connecticut Avenue;9;120;false;8,40,100,300,450,600;-1;;sky,50,true,direct
+Vermont Avenue;8;100;false;6,30,90,270,400,550;-1;;sky,50,true,direct
+Chance 1;7;-1;false;;-1;;chance,-1,false,rnone
+Oriental Avenue;6;100;false;6,30,90,270,400,550;-1;;sky,50,true,direct
+Income Tax;4;-1;false;200;-1;;tax,-1,false,direct
+Baltic Avenue;3;60;false;4,20,60,180,320,450;-1;;purple,50,true,direct
+Community Chest 1;2;-1;false;;-1;;chest,-1,false,rnone
+Mediterranean Avenue;1;60;false;2,10,30,90,160,250;-1;;purple,50,true,direct
+GO;0;-1;false;;-1;;go,-1,false,rnone
+END
+true
+true
+false
+1
+7
+false
+2
+5
+1575689543
+1
+0
